@@ -1,6 +1,6 @@
-# <img align="right" src="http://vlad-ignatov.github.io/react-numeric-input/examples/v2.0.0/screenshot.png" width="123"/>React Numeric Input
+# React Numeric Input
 
-[![Build Status](https://travis-ci.org/crazydev71/react-numeric-input.svg?branch=master)](https://travis-ci.org/crazydev71/react-numeric-input)
+[![Build Status](https://travis-ci.com/crazydev71/react-numeric-input.svg?branch=master)](https://travis-ci.com/crazydev71/react-numeric-input)
 
 Number input component that can replace the native number input which is not yet
 very well supported and where it is, it does not have the same appearance across
@@ -8,7 +8,8 @@ the browsers. Additionally this component offers more flexible options and can
 be used for any values (differently formatted representations of the internal
 numeric value).
 
-![Demo](https://i.imgur.com/uUnxO73.gif)
+This repository has forked from [(http://vlad-ignatov.github.io/react-numeric-input/)](http://vlad-ignatov.github.io/react-numeric-input)
+
 ### [**Live demo**](http://vlad-ignatov.github.io/react-numeric-input/)
 
 ## Installation
