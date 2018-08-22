@@ -1,6 +1,6 @@
 # <img align="right" src="http://vlad-ignatov.github.io/react-numeric-input/examples/v2.0.0/screenshot.png" width="123"/>React Numeric Input
 
-[![Build Status](https://travis-ci.org/vlad-ignatov/react-numeric-input.svg?branch=master)](https://travis-ci.org/vlad-ignatov/react-numeric-input)
+[![Build Status](https://travis-ci.org/crazydev71/react-numeric-input.svg?branch=master)](https://travis-ci.org/crazydev71/react-numeric-input)
 
 Number input component that can replace the native number input which is not yet
 very well supported and where it is, it does not have the same appearance across
@@ -13,16 +13,16 @@ numeric value).
 
 ## Installation
 ```sh
-npm install react-numeric-input --save
+npm install react-numeric-input-component --save
 ```
 Then in your scripts:
 ```js
 // es6
-import NumericInput from 'react-numeric-input';
+import NumericInput from 'react-numeric-input-component';
 // or es5
-var NumericInput = require('react-numeric-input');
+var NumericInput = require('react-numeric-input-component');
 // or TypeScript
-import * as NumericInput from "react-numeric-input";
+import * as NumericInput from "react-numeric-input-component";
 ```
 
 ## Usage
@@ -132,7 +132,7 @@ You can modify the styles for everything including states like `:hover`, `:activ
 stored as static class property so that you can change it and affect all the components
 from your script. Example:
 ```js
-import NumericInput from 'react-numeric-input';
+import NumericInput from 'react-numeric-input-component';
 NumericInput.style.input.color = 'red';
 ```
 
